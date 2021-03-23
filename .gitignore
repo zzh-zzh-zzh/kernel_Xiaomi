@@ -136,8 +136,8 @@ all.config
 # fetched Android config fragments
 kernel/configs/android-*.cfg
 
-# Build script
-kyuofox_build.sh
+# vendor device tree directories
+#arch/arm64/boot/dts/vendor/
 
 # Build log
 kernel.log
